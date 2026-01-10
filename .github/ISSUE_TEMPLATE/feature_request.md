@@ -1,20 +1,22 @@
 ---
 name: Feature Request
-about: Suggest an idea for this project
-title: "Feature: "
-labels: enhancement, needs-triage
-assignees: ''
-
+description: Suggest a new feature or enhancement
+title: "Epic: [Short description]"
+labels: ["enhancement", "needs-triage"]
+assignees: []
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Feature Description
+A clear and concise description of the feature you want to add.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Problem Statement
+What problem does this feature solve?
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Proposed Solution
+How would you like this feature to work?
 
-**Additional context**
+## Alternatives Considered
+What alternative solutions or features did you consider?
+
+## Additional Context
 Add any other context or screenshots about the feature request here.
