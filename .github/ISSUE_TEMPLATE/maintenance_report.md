@@ -1,25 +1,19 @@
 ---
 name: Maintenance Report
-about: Report maintenance or housekeeping tasks
-title: "Maintenance: "
-labels: maintenance, needs-triage
-assignees: ''
-
+description: Report maintenance or housekeeping tasks
+title: "[Maintenance] [Short description]"
+labels: ["maintenance", "needs-triage"]
+assignees: []
 ---
 
-**Maintenance Type**
-Please specify the type of maintenance:
-- [ ] Code refactoring
-- [ ] Dependency updates
-- [ ] Documentation updates
-- [ ] Infrastructure changes
-- [ ] Other (please specify)
-
-**Description**
+## Maintenance Task Description
 A clear and concise description of the maintenance task.
 
-**Impact**
-Describe the impact of this maintenance task (e.g., performance improvements, security fixes, code quality).
+## Purpose
+Why is this maintenance needed?
 
-**Additional context**
-Add any other context or screenshots about the maintenance task here.
+## Expected Outcome
+What do you expect to achieve after completing this maintenance?
+
+## Additional Context
+Add any other context about the maintenance task here.
